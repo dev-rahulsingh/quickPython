@@ -13,9 +13,26 @@ import random
 # num = random.randint(0, len(friend))
 # print(friend[num])
 
-fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
-vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+# fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+# vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
  
-dirty_dozen = [fruits, vegetables]
+# dirty_dozen = [fruits, vegetables]
  
-print(dirty_dozen[1][1])
+# print(dirty_dozen[1][1])
+
+
+# *** Loops ***
+# for number in range (1,100):
+#     if number%3 == 0 and number%5==0:
+#         print("FizzBuzz")
+#     elif number%3==0:
+#         print("Fizz")
+#     elif number%5==0:
+#         print("Buzz")
+#     else:
+#         print(number)
+
+
+number = [1,2,3,4,5,4,6,7]
+
+print(random.random())
