@@ -56,3 +56,30 @@ import random
 #          student_grades[key] = "Fail"
          
 # print(student_grades)
+
+
+# def is_leap_year(year):
+#     data = 0
+#     if year % 4 == 0:
+#         data += 1
+        
+#         if year % 100 == 0:
+#             data -= 1
+            
+#             if year % 400 == 0:
+#                 data += 1
+                
+#     else:
+#         print("Not divisible by 4 → Not a leap year")
+#     return data
+
+
+# provided_year = int(input("Enter the year to check if it is a Leap Year:\n"))
+
+# result = is_leap_year(provided_year)
+
+# if result > 0:
+#     print(f"The year {provided_year} is a Leap Year.")
+# else:
+#     print(f"The year {provided_year} is NOT a Leap Year.")
+
