@@ -83,3 +83,14 @@ import random
 # else:
 #     print(f"The year {provided_year} is NOT a Leap Year.")
 
+from turtle import Turtle, Screen
+timmy = Turtle()
+print(timmy)
+timmy.color("cyan4")
+timmy.shape("turtle")
+
+my_screen = Screen()
+print(my_screen.canvheight)
+
+
+my_screen.exitonclick()
